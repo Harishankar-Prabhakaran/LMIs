@@ -37,7 +37,7 @@ mat2 = [X1 eye(6);
 F = [mat1 >= 0; mat2>=0];
 F = [F; X1>=0.0001; Y1>=0.0001; Z>=0.0001];
 optimize(F, gam);
-H2_norm = (value(gam))
+Hinf_norm = (value(gam))
 
 [L,U] = lu(1-(value(X1)*value(Y1)));
 X2 = L; Y2 = U';    
