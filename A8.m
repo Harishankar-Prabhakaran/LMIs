@@ -19,4 +19,4 @@ mat1 = [P A*P+Bd2*Fd Bd1 zeros(3,1);
 F = [mat1 >= 0; P>=0];
 optimize(F, gam);
 Kd = value(Fd)*inv(value(P))
-H2_norm = (value(gam))
+Hinf_norm = (value(gam))
