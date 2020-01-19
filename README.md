@@ -1,6 +1,6 @@
 # LMIs
-Linear Matrix Inequalities: Discrete-time systems - HARISHANKAR PRABHAKARAN
-One can find these LMIs in this book: https://arxiv.org/pdf/1903.08599.pdf
+Linear Matrix Inequalities: Discrete-time systems - HARISHANKAR PRABHAKARAN. 
+One can find these LMIs in this book: https://arxiv.org/pdf/1903.08599.pdf . 
 This is a set of codes as sample programs for discrete time systems in the wikibook: https://en.wikibooks.org/wiki/LMIs_in_Control.
 To run these MATLAB codes, YALMIP TOOLBOX and solvers such as SeDuMi or IBM CPLEX is Required.
 
