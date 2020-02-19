@@ -1,3 +1,5 @@
+https://github.com/Harishankar-Prabhakaran/LMIs
+
 Linear Matrix Inequalities in Optimal and Robust Control. Linear Matrix Inequalities: Discrete-time systems - HARISHANKAR PRABHAKARAN. One can find these LMIs in this book: https://arxiv.org/pdf/1903.08599.pdf . This is a set of codes as sample programs for discrete time systems in the wikibook (pages I created are listed below and the respective MATLAB codes are available): https://en.wikibooks.org/wiki/LMIs_in_Control. To run these MATLAB codes, YALMIP TOOLBOX and solvers such as SeDuMi or IBM CPLEX is Required.
 
 A1.m - Discrete-Time Lyapunov Stability (Caverly 3.1.3) https://en.wikibooks.org/wiki/LMIs_in_Control/pages/Discrete_Time_Lyapunov_Stability
